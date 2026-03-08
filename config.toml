@@ -1,0 +1,64 @@
+baseURL = "https://gold3dprint.com/"
+languageCode = "en-us"
+title = "Gold 3D Print"
+theme = "printwire-theme"
+
+[params]
+  siteName       = "Gold 3D Print"
+  tagline        = "Gold 3D Print — precious metal 3D printing for jewelry, luxury goods, and fine art. Gold, silver, and platinum SLM production with filigree to 0.1 mm."
+  primaryColor   = "#d4af37"
+  bgColor        = "#0a0614"
+  fontPrimary    = "Cinzel"
+  fontSecondary  = "Cormorant Garamond"
+  fontURL        = "https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;900&family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap"
+  ogImage        = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1200&q=80"
+  favicon        = "💎"
+  pubmedQuery    = "additive+manufacturing+jewelry+precious+metal+gold+printing"
+  contactEmail   = "maxdavisgroup@gmail.com"
+  web3formsKey   = "6f33053b-6d08-414b-9615-665f88c98da8"
+  xometryId      = "XOMETRY_AFFILIATE_ID"
+  domain         = "gold3dprint.com"
+  heroImage      = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1200&q=80"
+
+[[params.stats]]
+  number = "18K"
+  label  = "Gold Available"
+
+[[params.stats]]
+  number = "0.1mm"
+  label  = "Filigree Resolution"
+
+[[params.stats]]
+  number = "100%"
+  label  = "Hallmark Compliant"
+
+[[params.stats]]
+  number = "Pt/Ag"
+  label  = "Platinum & Silver"
+
+[[params.services]]
+  title = "Gold & Platinum Printing"
+  icon  = "◎"
+  image = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80"
+  short = "18K yellow, white, and rose gold; 950 platinum; 999 fine silver — SLM direct metal printing without lost-wax casting."
+
+[[params.services]]
+  title = "Custom Jewelry Production"
+  icon  = "✦"
+  image = "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?w=600&q=80"
+  short = "One-of-a-kind pieces, limited editions, and production jewelry with geometry impossible in casting."
+
+[[params.services]]
+  title = "Wax Pattern Replacement"
+  icon  = "⚙"
+  image = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80"
+  short = "High-resolution wax and castable resin patterns for investment casting — complex geometry without wax injection tooling."
+
+[[params.services]]
+  title = "Art & Luxury Objects"
+  icon  = "◈"
+  image = "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?w=600&q=80"
+  short = "Sculpture, decorative objects, and luxury goods in precious metals — from artist CAD files or generative AI geometry."
+
+[markup.goldmark.renderer]
+  unsafe = true

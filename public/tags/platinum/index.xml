@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Platinum on Gold 3D Print</title>
+    <link>https://gold3dprint.com/tags/platinum/</link>
+    <description>Recent content in Platinum on Gold 3D Print</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gold3dprint.com/tags/platinum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Precious Metal 3D Printing: Gold, Platinum, and Silver SLM Production</title>
+      <link>https://gold3dprint.com/articles/guide/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gold3dprint.com/articles/guide/</guid>
+      <description>Selective laser melting of precious metals enables geometry impossible in lost-wax casting. This guide covers alloy compositions, process parameters, and design guidelines for gold and platinum printing.</description>
+    </item>
+  </channel>
+</rss>
